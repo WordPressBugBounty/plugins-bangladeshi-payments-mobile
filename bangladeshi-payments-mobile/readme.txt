@@ -3,8 +3,8 @@ Contributors: nahian91
 Donate link: https://devnahian.com
 Tags: WooCommerce, bKash, Nagad, Rocket, Payments
 Requires at least: 5.0
-Tested up to: 6.8
-Stable tag: 1.5
+Tested up to: 6.9.1
+Stable tag: 1.5.1
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -15,6 +15,12 @@ Accept Mobile Payments in Bangladesh – WooCommerce Gateway for **bKash, Nagad,
 **Bangladeshi Payments Mobile – QR Code & Transaction Reports** is a powerful WooCommerce payment gateway plugin designed for **Bangladeshi merchants**. It allows you to accept payments via the most popular mobile financial services: **bKash, Nagad, Rocket, and Upay**.  
 
 With QR code support and detailed transaction reports, this plugin makes mobile payments secure, fast, and easy to manage.
+
+### ❤️ Support the Development
+Building and maintaining high-quality free plugins takes time and effort. If this plugin helps your business grow or saves you hours of development work, please consider supporting its ongoing maintenance. Every coffee counts!
+
+* **[Support my work on SupportKori](https://www.supportkori.com/nahian28)**
+* **Leave a ⭐⭐⭐⭐⭐ rating on WordPress.org** — it helps others find this tool!
 
 ### Key Features
 - **Secure Mobile Payments**: Accept **bKash, Nagad, Rocket, and Upay** securely on your WooCommerce store.
@@ -31,13 +37,22 @@ With QR code support and detailed transaction reports, this plugin makes mobile 
 == More Plugins by Abdullah Nahian ==
 Enhance your WordPress experience with my other popular plugins:
 
-- **[Awesome Blocks for Gutenberg](https://wordpress.org/plugins/awesome-block/)** – Create FAQs with accordions, schema markup, and search functionality.
-- **[Infinity FAQ Schema & Accordion](https://wordpress.org/plugins/infinity-simple-faq/)** – Simple FAQs with accordions and schema support.
-- **[Ultimate CF7 for Elementor](https://wordpress.org/plugins/ultimate-cf7-for-elementor/)** – Advanced Contact Form 7 integration for Elementor.
-- **[Awesome Widgets for Elementor](https://wordpress.org/plugins/awesome-widgets-for-elementor/)** – Add stunning widgets to Elementor pages quickly.
-- **[Awesome Team Widgets](https://wordpress.org/plugins/awesome-team-widgets/)** – Showcase your team with flexible Elementor widgets.
+* **[Awesome Widgets for Elementor](https://wordpress.org/plugins/awesome-widgets-for-elementor/)** – Add stunning widgets and professional design elements to Elementor.
+* **[Awesome Car Rental & Booking](https://wordpress.org/plugins/awesome-car-rental-booking/)** – A complete solution for car rentals, fleet management, and bookings.
+* **[Awesome Food Ordering, Delivery & Pickup](https://wordpress.org/plugins/awesome-food-ordering-delivery-pickup-solution/)** – Professional system for restaurants and food delivery services.
+* **[Awesome Blocks for Gutenberg](https://wordpress.org/plugins/awesome-block/)** – Create FAQs with accordions, schema markup, and search functionality.
+* **[Infinity FAQ Schema & Accordion](https://wordpress.org/plugins/infinity-simple-faq/)** – Simple FAQs with accordions and schema support.
+* **[Ultimate CF7 for Elementor](https://wordpress.org/plugins/ultimate-cf7-for-elementor/)** – Advanced Contact Form 7 integration for Elementor.
+* **[Awesome Team Widgets](https://wordpress.org/plugins/awesome-team-widgets/)** – Showcase your team with flexible and stylish Elementor widgets.
 
 Visit [https://devnahian.com](https://devnahian.com) for more plugins and tutorials.
+
+== Support & Contact ==
+For technical support, custom WordPress development, or bug reports, feel free to reach out:
+
+* **Website**: [devnahian.com](https://devnahian.com)
+* **Email**: nahiansylhet@gmail.com
+* **WhatsApp/Phone**: +8801686195607 
 
 **Troubleshooting Tips**:
 - If checkout page issues occur, try switching to the **Block Editor** or **Classic Editor**, remove the default checkout block, and use `[woocommerce_checkout]` shortcode.

@@ -27,7 +27,6 @@ function bangladeshi_payments_render_general_page() {
 
                 <p><?php esc_html_e('Thank you for choosing Bangladeshi Payments Mobile!', 'bangladeshi-payments-mobile'); ?></p>
 
-                <!-- Review Button -->
                 <a href="https://wordpress.org/support/view/plugin-reviews/bangladeshi-payments-mobile" class="button button-primary" target="_blank">
                     <?php esc_html_e('Leave a Review', 'bangladeshi-payments-mobile'); ?>
                 </a>
@@ -148,7 +147,6 @@ function bangladeshi_payments_render_general_page() {
                         </tbody>
                     </table>
 
-                    <!-- Transaction Info Page Link -->
                     <div class="notice transaction-info-notice">
                         <p><strong><?php echo esc_html('More Transaction Report', 'bangladeshi-payments-mobile') ?></strong> - <a href="<?php echo esc_url(admin_url('admin.php?page=bangladeshi-payments-transaction-info')); ?>"><?php echo esc_html('View Transaction Info', 'bangladeshi-payments-mobile') ?></a></p>
                     </div>
@@ -173,6 +171,17 @@ function bangladeshi_payments_render_general_page() {
                             <button class="copy-btn" onclick="copyToClipboard('#whatsapp-text')"><span class="dashicons dashicons-admin-page"></span></button>
                         </li>
                     </ul>
+
+                    <div class="bpm-donation-box" style="margin-top: 20px; padding: 15px; background: #fff; border-left: 4px solid #e22d11; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                        <p style="margin-top: 0; font-weight: 600;">
+                            <span class="dashicons dashicons-heart" style="color: #e22d11;"></span> 
+                            <?php esc_html_e('Support the Development', 'bangladeshi-payments-mobile'); ?>
+                        </p>
+                        <p style="font-size: 13px;"><?php esc_html_e('If this plugin helps your business, please consider buying me a coffee.', 'bangladeshi-payments-mobile'); ?></p>
+                        <a href="https://www.supportkori.com/nahian28" target="_blank" class="button button-secondary" style="background: #e22d11; color: #fff; border: none;">
+                            <?php esc_html_e('Support on SupportKori', 'bangladeshi-payments-mobile'); ?>
+                        </a>
+                    </div>
 
                     <script>
                         // Function to copy text to clipboard
